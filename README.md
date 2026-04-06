@@ -47,7 +47,7 @@ project-root/
 
 ## Cac bang database
 
-Schema nam trong [db/init.sql](C:\Users\nguye\Desktop\Bookstore\db\init.sql), gom:
+Schema nam trong `db/init.sql`, gom:
 
 - `categories`
 - `authors`
@@ -57,6 +57,9 @@ Schema nam trong [db/init.sql](C:\Users\nguye\Desktop\Bookstore\db\init.sql), go
 - `orders`
 - `order_items`
 - `vouchers`
+- `cart`
+- `wishlist`
+- `comments`
 
 ## Chay du an
 
